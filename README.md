@@ -47,12 +47,6 @@ This project explores the relationship between **nutrient intake** and **food pr
 
 ---
 
-## 📈 Sample Visuals
-
-> *(Add visuals if available: e.g., output from seaborn heatmap, matplotlib bar chart, or cluster plot)*
-
----
-
 ## 🧠 Learnings
 
 - Real-world data is messy – preprocessing is 60% of the job!
